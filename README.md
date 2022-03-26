@@ -1,4 +1,4 @@
-# optimization bencharks
+# optimization benchmarks
 Java (Netbeans) implementation of some famous optimiziation benchmarks.
 Usually will be used for evaluating different optimization algorithms.
 
